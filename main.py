@@ -32,4 +32,5 @@ def hancom_typing(texts:str) -> None:
             time.sleep(2)
 
 
-hancom_typing(en_texts)
+# hancom_typing(en_texts)
+hancom_typing(ko_texts)
